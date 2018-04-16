@@ -1,24 +1,77 @@
-{
-  "speakers": [{
-    "title" : "Art in Full Bloom",
-    "name": "Lorenzo Garcia",
-    "shortname" : "Lorenzo_Garcia",
-    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Lorenzo Garcia brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
-    "description": "<p>Lorenzo was born in Mexico, but grew up in Southern California after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Lorenzo to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
-    "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
-  },{
-    "title" : "Deep Sea Wonders",
-    "name": "Hilary Goldywynn Post",
-    "shortname" : "Hillary_Goldwynn",
-    "summary": "Hillary is a sophomore art sculpture student at New York University, and has won the major international prizes for painters, including the Divinity Circle and the International Painter's Medal. Hillary's exhibit features paintings that contain only water including waves, deep sea, and river.",
-    "description": "<p>Hillary is a sophomore art sculpture student at New York University, and has already won all the major international prizes for new painters, including the Divinity Circle, the International Painter's Medal, and the Academy of Paris Award. Hillary's CAC exhibit features paintings that contain only water images including waves, deep sea, and river.</p><p>An avid water sports participant, Hillary understands the water in many ways in which others do not, or may not ever have the opportunity. Her goal in creating the CAC exhibit was to share with others the beauty, power, and flow of natural bodies of water throughout the world. In addition to the display, Hilary also hosts a session on Tuesday called Deep Sea Wonders, which combines her love of deep sea diving and snorkeling, with instruction for capturing the beauty of underwater explorations on canvas.</p>",
-    "artwork" : ["Hillary_Goldwynn_01_tn.jpg" , "Hillary_Goldwynn_02_tn.jpg" , "Hillary_Goldwynn_03_tn.jpg" , "Hillary_Goldwynn_04_tn.jpg" , "Hillary_Goldwynn_05_tn.jpg" , "Hillary_Goldwynn_06_tn.jpg" , "Hillary_Goldwynn_07_tn.jpg"]
-  },{
-    "title" : "The Art of Abstract",
-    "name": "Riley Rudolph Rewington",
-    "shortname" : "Riley_Rewington",
-    "summary": "The leader of the MMA artistic movement in his hometown of Portland, Riley Rudolph Rewington draws a crowd wherever he goes. Mixing street performance, video, music, and traditional art, Riley has created some of the most unique and deeply poignant abstract works of his generation.",
-    "description": "<p>Riley started out as musician and street performance artist, and now blends painting and photography with audio, video, and computer multimedia to create what he calls 'Music and Multimedia Artworks.' Riley's innovations in using multimedia to express art have created a youth culture movement in his town of Portland, in which he remains at the forefront. In his role as the founder of the MMA art form, Riley has become an inspiration to many up and coming artists. However, the part Riley insists is most important to him, is that he's helped many troubled youth take control of their lives, and create their own unique, positive futures. Seeing kids he's mentored graduate from high school and enroll in college, gives art the purpose that Riley so craves.</p><p>A first-year student at the Roux Academy of Art, Media, and Design, Riley is already changing the face of modern art at the university. Riley's exquisite abstract pieces have no intention of ever being understood, but instead beg the viewer to dream, create, pretend, and envision with their mind's eye. Riley will be speaking on the 'Art of Abstract' during Thursday's schedule.</p>",
-    "artwork" : ["Riley_Rewington_01_tn.jpg","Riley_Rewington_02_tn.jpg","Riley_Rewington_03_tn.jpg","Riley_Rewington_04_tn.jpg","Riley_Rewington_05_tn.jpg","Riley_Rewington_06_tn.jpg"]
-  }]
+{"data":
+  {
+    "bgImage": "https://thelittlewashhouse.files.wordpress.com/2015/02/appenzeller-alpaufzug-687d32ee-f88e-4cdd-8395-8c4ed2e4e28f.jpg",
+    "highlights":[
+      {"id":"1",
+        "site":"Stockholm",
+        "category":"City",
+        "info": "Stockholm, the capital of Sweden, encompasses 14 islands and more than 50 bridges on an extensive Baltic Sea archipelago. The cobblestone streets and ochre-colored buildings of Gamla Stan (the old town) are home to the 13th-century Storkyrkan Cathedral, the Kungliga Slottet Royal Palace and the Nobel Museum, which focuses on the Nobel Prize. Ferries and sightseeing boats shuttle passengers between the islands.",
+        "lat": "59.3293",
+        "long": "18.0686",
+        "image": "https://images5.alphacoders.com/523/523040.jpg",
+        "video": "https://www.youtube.com/watch?v=ipbxbliygfg",
+        "videoEmbed":"https://www.youtube.com/embed/ipbxbliygfg"
+      },
+      {"id":"2",
+        "site":"Gothenburg",
+        "category":"City",
+        "info": "Gothenburg, a major city in Sweden, is situated off the Göta älv river on the country's west coast. An important seaport, it's known for its Dutch-style canals and leafy boulevards like the Avenyn, the city's main thoroughfare, lined with many cafes and shops. Liseberg is a popular amusement park with themed rides, performance venues and a landscaped sculpture garden.",
+        "lat": "57.7089",
+        "long": "11.9746",
+        "image": "https://www.wallpaperflare.com/static/687/434/374/photography-brown-bridge-g%C3%B6teborg-wallpaper.jpg",
+        "video": "https://www.youtube.com/watch?v=ZfIeo4bbyNw",
+        "videoEmbed": "https://www.youtube.com/embed/ZfIeo4bbyNw"
+      },
+      {"id":"3",
+        "site":"Icehotel",
+        "category":"Hotel",
+        "info": "Occupying a mix of permanent buildings and seasonal ice structures, this high-concept hotel is 1 km from both the 18th-century Jukkasjärvi Homestead museum, and the Nutti Sámi Siida cultural and reindeer park.",
+        "lat": "67.8509",
+        "long": "20.5953",
+        "image": "https://i.pinimg.com/originals/d6/1e/fb/d61efbd56c9779b6b8d4e13cae3378c7.jpg",
+        "video": "https://www.youtube.com/watch?v=N0TtkW9vcFI",
+        "videoEmbed": "https://www.youtube.com/embed/N0TtkW9vcFI"
+      },
+      {"id":"4",
+        "site":"Malmö",
+        "category":"City",
+        "info": "Malmö is a coastal city in southern Sweden. It lies at the eastern end of the striking Öresund Bridge, a long road and railway bridge–tunnel running to Copenhagen, Denmark. In the city center, Lilla Torg is a cobblestone square with cafes, half-timbered houses and shops selling local handicrafts. Malmö Castle, a 16th-century fortress built by King Christian III of Denmark, houses nature, history and art exhibits.",
+        "lat": "55.6050",
+        "long": "13.0038",
+        "image": "https://i.pinimg.com/originals/c6/59/c9/c659c9fdd366d69a72f6827c157f5dc5.jpg",
+        "video": "https://www.youtube.com/watch?v=eR4MhlsrvFg",
+        "videoEmbed": "https://www.youtube.com/embed/eR4MhlsrvFg"
+      },
+      {"id":"5",
+        "site":"Kosterhavet",
+        "category":"City",
+        "info": "Kosterhavet National Park is the first national marine park in Sweden, inaugurated on September 2009. It is part of the Skagerrak sea and is located in Strömstad and Tanum municipalities in Bohuslän, Västra Götaland County, Sweden.",
+        "lat": "58.8371",
+        "long": "11.0344",
+        "image": "https://static.thousandwonders.net/Kosterhavet.National.Park.original.37429.jpg",
+        "video": "https://www.youtube.com/watch?v=zmMic4G_Jgg",
+        "videoEmbed": "https://www.youtube.com/embed/zmMic4G_Jgg"
+      },
+      {"id":"6",
+        "site":"Skåne",
+        "category":"City",
+        "info": "Skåne County, sometimes referred to as Scania County in English, is the southernmost county or län, of Sweden, basically corresponding to the traditional province Skåne. It borders the counties of Halland, Kronoberg and Blekinge.",
+        "lat": "55.9903",
+        "long": "13.5958",
+        "image": "https://www.neverstoptraveling.com/wp-content/uploads/2012/02/Skane-anders_tedeholm-poppy_field-5443-700.jpg",
+        "video": "https://www.youtube.com/watch?v=Vm2KtMkP-Tc",
+        "videoEmbed": "https://www.youtube.com/embed/Vm2KtMkP-Tc"
+      },
+      {"id":"7",
+        "site":"Visby",
+        "category":"City",
+        "info": "Visby is a town on the Swedish island of Gotland in the Baltic Sea. It's known for its well-preserved town wall, a medieval fortification incorporating defensive towers. The town's many churches include the grand, centuries-old St. Mary's Cathedral and the medieval ruins of St. Nicolai and St. Karin. The main square, Stora Torget, has cobblestone streets lined with cafes and restaurants.",
+        "lat": "57.6348",
+        "long": "18.2948",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Visby_panorama_fr%C3%A5n_klinten.jpg/1200px-Visby_panorama_fr%C3%A5n_klinten.jpg",
+        "video": "https://www.youtube.com/watch?v=3mOYqzQN-wA",
+        "videoEmbed": "https://www.youtube.com/embed/3mOYqzQN-wA"
+      }
+    ]
+  }
 }
